@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://code05855-svg.github.io/Task4_digital_marketing_rava_ferizqo_230102113_if23c/sitemap.xml
